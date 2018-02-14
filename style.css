@@ -1,0 +1,62 @@
+body{
+  font-family: 'OpenSans';
+  background-color: cornflowerblue;
+  margin: 0px;
+
+}
+
+ul{
+  list-style-type: none;
+  text-decoration-line: none;
+}
+
+li{
+  display: inline-block;
+  color: black;
+  background-color: gray;
+  text-decoration-line: none;
+
+}
+
+#navbar{
+  font-family: 'OpenSans';
+  padding: 1em;
+  color: gray;
+
+}
+
+#navbar a{
+  height: 500px;
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
+/*
+#projectwrapper{
+  display: inline-block;
+  padding: 500em;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+*/
+
+
+/*
+.left{
+  float: left;
+  width: 300px;
+  padding: 1em;
+}
+
+.right{
+  float: right;
+  width: 830px;
+  padding: 1em;
+}
+
+.center{
+  margin-right: 15px;
+  margin-left: 15px;
+  padding: 1em;
+}
+*/
